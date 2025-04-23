@@ -25,6 +25,8 @@ A small web experiment using **HTML Canvas** and **vanilla JavaScript** to anima
 
 ##  Preview
 
-
-```markdown
 ![Sprite Animation Preview](./assets/sprite_animation.png)
+
+## Credit
+
+Based on a learning session from Franks Labrotary from youtube
