@@ -27,4 +27,4 @@ A small web experiment using **HTML Canvas** and **vanilla JavaScript** to anima
 
 
 ```markdown
-![Sprite Animation Preview](./assets/preview.png)
+![Sprite Animation Preview](./assets/sprite_animation.png)
